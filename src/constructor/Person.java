@@ -1,4 +1,4 @@
-package classComponents.constructors;
+package constructor;
 
 public class Person {
     int id;
