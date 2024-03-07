@@ -19,7 +19,7 @@ package Assigmnent.loops;
 
                 // If it's not divisible by any other number, it's prime
                 if (isPrime) {
-                    System.out.print(i+"");
+                    System.out.print(i + "");
                 }
             }
         }
