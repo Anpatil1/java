@@ -36,7 +36,7 @@ D.main(args);
         }
     }
     class C{
-        public static void main(String[] args) {
+        public  static void main(String[] args) {
             int a = 3;
             char character = 'd';
             int newasciiValue = (int)character +a;

@@ -1,5 +1,5 @@
 package Assigmnent.loops;
-
+//Write a program to print all prime number in between 1 to 100
 
     public class PrimeNumbers {
         public static void main(String[] args) {
@@ -19,7 +19,7 @@ package Assigmnent.loops;
 
                 // If it's not divisible by any other number, it's prime
                 if (isPrime) {
-                    System.out.print(i + "");
+                    System.out.print(i +  " ");
                 }
             }
         }
