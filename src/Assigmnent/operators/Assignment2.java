@@ -18,7 +18,7 @@ C.main(args);
 D.main(args);
     }
 
-    class A{
+   static class A{
         public static void main(String[] args) {
             int A = 123;
             double B  = 124;
@@ -28,14 +28,14 @@ D.main(args);
         }
 
     }
-    class B{
+    static class B{
         public static void main(String[] args) {
             double A = 100.235;
             int B  = (int)A;
             System.out.println("decimal convert in  int is = "+B);
         }
     }
-    class C{
+    static class C{
         public  static void main(String[] args) {
             int a = 3;
             char character = 'd';

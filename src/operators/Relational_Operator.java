@@ -1,7 +1,7 @@
 package operators;
 
 public class Relational_Operator {
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
         int a = 12;
         int b = 10;
 
@@ -14,7 +14,7 @@ public class Relational_Operator {
         A.main(args);
         B.main(args);
     }
-    class A {
+    static class A {
         public static void main(String[] args) {
             int a = 12;
             int b =12;
@@ -25,7 +25,7 @@ public class Relational_Operator {
 
 
     }
-    class B{
+    static class B{
         public static void main(String[] args) {
             //boolean type
             //System.out.println(true > false); //CTE
